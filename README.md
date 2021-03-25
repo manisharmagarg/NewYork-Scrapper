@@ -1,4 +1,4 @@
-![NewYork Scrapper](https://github.com/manisharmagarg/NewYork-Scrapper/blob/main/WEB_SCRAPING.jpg)
+![NewYork Scrapper](https://github.com/manisharmagarg/NewYork-Scrapper/blob/master/WEB_SCRAPING.jpg)
 <br>
 <span style="text-decoration: underline;"><strong>Introduction:</strong></span>
 
